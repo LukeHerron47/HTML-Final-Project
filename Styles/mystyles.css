@@ -1,0 +1,22 @@
+
+.Ariel{font-family: Arial, Helvetica, sans-serif; }
+
+.bold{
+    font-weight: bold;}
+    
+.underline {text-decoration: underline; }
+
+.intro{
+        font-size: 18px;
+        color:rgb(34, 34, 34);
+    }
+.Heading{
+        font-style: italic;
+        color: rgb(0, 0, 0);
+        font-size: 22px;}
+.SmallText{
+    font-size: 14px;
+    font-weight: lighter;
+}
+.White {color:antiquewhite;}
+
